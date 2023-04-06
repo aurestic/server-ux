@@ -1,2 +1,2 @@
 pyzbar
-pdf2image
+pdf2image==1.16.0
